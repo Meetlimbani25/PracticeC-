@@ -15,7 +15,7 @@ int main()
 
     while (i <= power)
     {
-        result = result * base;
+        result *= base;
         i++;
     }
 

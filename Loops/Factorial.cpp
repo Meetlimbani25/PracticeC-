@@ -11,7 +11,7 @@ int main()
 
     while (i <= n)
     {
-        fact = fact * i;
+        fact *= i;
         i++;
     }
 
